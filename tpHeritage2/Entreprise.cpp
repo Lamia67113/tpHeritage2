@@ -36,20 +36,24 @@ void Entreprise::setInterimaires(Interimaires i)
 
 string Entreprise::getVendeurs()
 {
-	return string();
+	
+
 }
 
 string Entreprise::getRepresentants()
 {
-	return string();
+	
+
 }
 
 string Entreprise::getTechniciens()
 {
-	return string();
+	
+
 }
 
 string Entreprise::getInterimaires()
 {
-	return string();
+	
+
 }
