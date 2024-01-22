@@ -3,6 +3,12 @@
 
 #include <iostream>
 #include "Entreprise.h"
+#include "Commerciaux.h"
+#include "Employee.h"
+#include "Interimaires.h"
+#include "Representants.h"
+#include "Techniciens.h"
+#include "Vendeurs.h"
 
 int main()
 {
